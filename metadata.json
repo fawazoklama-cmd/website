@@ -1,0 +1,6 @@
+{
+  "name": "World Flag Guessing Game",
+  "description": "A multiplayer guess-the-flag game featuring World and Continent modes, custom avatars, Indonesian and English language support, and real-time local multiplayer sync and bots.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
